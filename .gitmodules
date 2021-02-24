@@ -8,3 +8,6 @@
 [submodule "l10n-mx-xml-invoice"]
 	path = l10n-mx-xml-invoice
 	url = git@github.com:xmarts/l10n-mx-xml-invoice.git
+[submodule "invoice-report-shellfish"]
+	path = invoice-report-shellfish
+	url = git@github.com:xmarts/invoice-report-shellfish.git
