@@ -4,3 +4,6 @@
 [submodule "l10n-mx-xml-invoice"]
 	path = l10n-mx-xml-invoice
 	url = git@github.com:xmarts/l10n-mx-xml-invoice.git
+[submodule "l10n-mx-xml-invoice-extend"]
+	path = l10n-mx-xml-invoice-extend
+	url = git@github.com:xmarts/l10n-mx-xml-invoice-extend.git
