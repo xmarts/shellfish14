@@ -11,3 +11,6 @@
 [submodule "invoice-report-shellfish"]
 	path = invoice-report-shellfish
 	url = git@github.com:xmarts/invoice-report-shellfish.git
+[submodule "l10n-mx-transfer-invoice"]
+	path = l10n-mx-transfer-invoice
+	url = git@github.com:xmarts/l10n-mx-transfer-invoice.git
